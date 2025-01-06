@@ -4,6 +4,21 @@ from wtforms.validators import DataRequired, URL, Optional
 
 from app.modules.dataset.models import PublicationType
 
+prueba_codacy = "prueba_codacy"
+prueba_codacy = "prueba_codacy"
+prueba_codacy = "prueba_codacy"
+prueba_codacy = "prueba_codacy"
+prueba_codacy = "prueba_codacy"
+prueba_codacy = "prueba_codacy"
+prueba_codacy = "prueba_codacy"
+prueba_codacy = "prueba_codacy"
+prueba_codacy = "prueba_codacy"
+prueba_codacy = "prueba_codacy"
+prueba_codacy = "prueba_codacy"
+prueba_codacy = "prueba_codacy"
+prueba_codacy = "prueba_codacy"
+prueba_codacy = "prueba_codacy"
+
 
 class AuthorForm(FlaskForm):
     name = StringField("Name", validators=[DataRequired()])
